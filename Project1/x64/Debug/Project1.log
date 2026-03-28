@@ -1,0 +1,5 @@
+﻿  源1.cpp
+C:\Users\13057\OneDrive\桌面\C++ 试验田\Project1\源1.cpp(12,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13057\OneDrive\桌面\C++ 试验田\Project1\源1.cpp(21,26): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13057\OneDrive\桌面\C++ 试验田\Project1\源1.cpp(29,14): warning C4805: “==”: 在操作中将类型“bool”与类型“int”混合不安全
+  Project1.vcxproj -> C:\Users\13057\OneDrive\桌面\C++ 试验田\Project1\x64\Debug\Project1.exe
